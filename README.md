@@ -22,17 +22,42 @@ The **AI-Based Interview System** is an advanced **machine learning-powered** pl
 
 ## 📌 Installation
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/AnoshSingh9/AI-Based-Interview-System.git
+   ```
+   
+2. Start the backend:
+   1. Instll requirements:
+      
+      ```bash
+      cd backend
+      python -m venv virt
+      .\virt\Scripts\activate
+      python install -r requirements.txt
+      ```
+      
+   2. Run backend part:
+      
+      ```bash
+      python manage runserver
+      ```
+3. Launch Frontend:
+
+   ```bash
    cd AI-Based-Interview-System
    ```
-2. Install dependencies:
+
+5. Install dependencies:
+   
    ```bash
    npm install  # or yarn install
    ```
-3. Start the development server:
+   
+6. Start the frontend:
+   
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## 🚀 Contributing
