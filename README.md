@@ -14,11 +14,11 @@ The **AI-Based Interview System** is an advanced **machine learning-powered** pl
 ✅ **User Authentication** – Secure login with personalized progress tracking.
 
 ## 🔧 Tech Stack
-- **Frontend:** React.js / Next.js
-- **Backend:** Node.js / Express.js
-- **Database:** MongoDB / Firebase
-- **AI/ML:** OpenAI API / TensorFlow.js / Speech Recognition
-- **Authentication:** Firebase Auth / JWT
+- **Frontend:** React.js
+- **Backend:** Django
+- **Database:** MongoDB 
+- **AI/ML:** Gemini API
+- **Authentication:** Firebase Auth 
 
 ## 📌 Installation
 1. Clone the repository:
