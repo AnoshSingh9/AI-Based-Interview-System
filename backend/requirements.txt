@@ -1,0 +1,11 @@
+Django
+dotenv
+djangorestframework
+requests
+cors
+django-cors-headers
+djangorestframework-simplejwt
+python-decouple
+google-generativeai
+
+
